@@ -427,11 +427,11 @@ with gr.Blocks(
 
 logging.info(
     colorama.Back.GREEN
-    + "\n川虎的温馨提示：访问 http://localhost:7860 查看界面"
+    + "\n香草杏仁的温馨提示：访问 http://localhost:7860 查看界面"
     + colorama.Style.RESET_ALL
 )
 # 默认开启本地服务器，默认可以直接从IP访问，默认不创建公开分享链接
-demo.title = "川虎ChatGPT 🚀"
+demo.title = "香草杏仁的ChatGPT 🚀"
 
 if __name__ == "__main__":
     reload_javascript()
