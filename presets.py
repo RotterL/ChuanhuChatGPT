@@ -29,9 +29,7 @@ title = """<h1 align="left" style="min-width:200px; margin-top:0;">川虎ChatGPT
 description = """\
 <div align="center" style="margin:16px 0">
 
-由Bilibili [土川虎虎虎](https://space.bilibili.com/29125536) 和 [明昭MZhao](https://space.bilibili.com/24807452)开发
-
-访问川虎ChatGPT的 [GitHub项目](https://github.com/GaiZhenbiao/ChuanhuChatGPT) 下载最新版脚本
+基于GitHub项目[川虎ChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) 开发
 
 此App使用 `gpt-3.5-turbo` 大语言模型
 </div>
